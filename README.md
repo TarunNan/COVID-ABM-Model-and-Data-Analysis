@@ -8,16 +8,6 @@ This repository contains a MATLAB-based agent-based model (ABM) that simulates C
 
 *View the full research poster [here](./research_poster.pdf)*
 
-To embed this research poster in your repository:
-1. Add the PDF file to your repository's root directory
-2. Create a PNG/JPEG version of the first page for preview
-3. Add both poster.png and research_poster.pdf to your repository
-4. Ensure the files are tracked by git:
-```bash
-git add poster.png research_poster.pdf
-git commit -m "Add research poster"
-```
-
 ### Background
 
 The simulation was created as part of a group research project examining health equity issues in school COVID-19 transmission. While I developed all the code for the model, the results and analysis were collaboratively used by the team (Michael Aichele, Tarun Nandamudi, Leo Jasper, Abbie Epperson, Braden Ross) to create the final research presentation.
