@@ -12,8 +12,6 @@ This repository contains a MATLAB-based agent-based model (ABM) that simulates C
 
 The simulation was created as part of a group research project examining health equity issues in school COVID-19 transmission. While I developed all the code for the model, the results and analysis were collaboratively used by the team (Michael Aichele, Tarun Nandamudi, Leo Jasper, Abbie Epperson, Braden Ross) to create the final research presentation.
 
-[Rest of README remains the same as before...]
-
 ### Model Features
 
 The simulation implements the following key features:
